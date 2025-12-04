@@ -1,2 +1,6 @@
-# FenNILPharm.github.io
-Proiectul Nanocatalizatori de tip fenton cu aplicații în epurarea apelor uzate (FenNILPharm). Cifrul proiectului PN-IV-PCB-ROMD-2024-0011
+# Fenton-type nanocatalysts with applications in wastewater treatment (FenNILPharm).
+Project code: PN-IV-PCB-ROMD-2024-0011
+
+For the first time, a complete cycle of creating new precursors for the preparation of novel 1H-imidazole derivatives was carried out, starting from design to synthesis and complete structural characterization by various methods of physicochemical analysis, including X-ray diffractometry. The proposed methods allowed the synthesis of series of imidazoles with important practical properties. For the first time, the influence of the length of the alkyl fragment of chloroalkyl nitriles on the yield of imidazolium salts has been studied. The property of the studied compounds to generate singlet oxygen as a photosensitizer was also investigated. The newly synthesized salts of substituted imidazole tetrachloroferrate were also evaluated for anticancer activity against various solid tumor and hematological cancer cell lines. Four compounds 18-21 showed activity exclusively against a single tumor cell line - LN229 (glioblastoma) in the concentration range of 1.0–4.0 µM, comparable to that of the reference compound etoposide.
+
+The research results were presented at the international conference "Medicine, Molecular and Environmental Sciences Congress (MedMolMed)" 2025, November 10-15, 2025, Chisinau, Republic of Moldova. 
